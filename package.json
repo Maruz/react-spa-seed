@@ -17,5 +17,14 @@
   "bugs": {
     "url": "https://github.com/Maruz/react-spa-seed/issues"
   },
-  "homepage": "https://github.com/Maruz/react-spa-seed#readme"
+  "homepage": "https://github.com/Maruz/react-spa-seed#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-node": "^6.5.3",
+    "babel-preset-env": "^1.5.1"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.23.0"
+  }
 }
