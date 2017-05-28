@@ -7,7 +7,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maruz/react-spa-seed.git"
+  },
   "keywords": [],
   "author": "Marius Nielsen <marius.n@outlook.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maruz/react-spa-seed/issues"
+  },
+  "homepage": "https://github.com/Maruz/react-spa-seed#readme"
 }
