@@ -1,0 +1,13 @@
+{
+  "name": "react-spa-seed",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A seed project for react single page applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marius Nielsen <marius.n@outlook.com>",
+  "license": "ISC"
+}
